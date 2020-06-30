@@ -46,7 +46,7 @@ To begin, please ensure you have navigated into the root directory of the reposi
 
 To launch the application, execute the following command from the terminal.
 
-    java -cp out Scrabble
+    java -cp out BoardGUI
 
 This will begin the execution the project code. If all goes well, the GUI shown in the above screenshots will be presented, and the game will be ready for play. By default, you will play against the Bot which uses the GADDAG move generation algorithm.
 
