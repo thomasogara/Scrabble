@@ -4,6 +4,8 @@
 This project contains code for an implementation of the board game Scrabble.
 This project also involved writing our own version of a Bot which could play Scrabble, which can be found at [the following link](https://github.com/thomasogara/ScrabbleBot).
 
+![A screenshot of the Scrabble GUI](screenshot.png)
+
 ## Getting Started
 
 To begin, please `git clone` the repository onto your local machine.
